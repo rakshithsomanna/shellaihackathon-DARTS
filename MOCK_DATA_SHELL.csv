@@ -1,0 +1,1001 @@
+Location,Primary contact,Previously infected with COVID,Covid Awarness quiz score,Population density,Number of times left home,Country Visited in the last 3 months,Tested Positive and recovered,Secondary contact,Priority to available at work place,BMI,Existing health condition,Number of people at home,Have you left India in the last 2 months,Total frequency of leaving home (Family)
+Rājbirāj,true,1,11,9036,88,Nepal,false,true,2,36,4,66,true,36
+Lijie,false,3,10,150580,75,China,true,true,4,20,4,31,false,91
+Kladruby,true,3,2,42430,56,Czech Republic,true,true,3,16,4,48,true,62
+Liantan,true,3,9,146372,66,China,false,true,1,39,2,40,true,53
+Povorino,true,2,3,99597,5,Russia,true,false,2,37,4,65,false,84
+Pamakayo,true,4,12,155350,68,Indonesia,false,false,4,32,2,3,false,95
+Wanghu,true,3,2,80621,3,China,false,false,3,21,2,30,false,57
+Shuizhai,false,1,3,177691,9,China,false,false,0,36,4,93,true,54
+Ussel,false,3,7,42100,90,France,true,false,0,36,5,33,false,49
+Dukuh,false,2,0,181343,71,Indonesia,false,false,2,16,1,98,true,61
+Karlshamn,false,2,10,94876,89,Sweden,true,false,0,33,5,33,true,71
+Pines,false,3,8,10656,25,Philippines,false,true,4,36,1,3,false,3
+Kutorejo,false,3,2,45813,89,Indonesia,true,true,0,15,3,0,true,72
+La Caya,true,4,1,49720,40,Dominican Republic,true,false,1,28,4,19,true,44
+Strasbourg,true,1,5,115306,79,France,true,false,1,29,4,71,true,0
+Kajar,true,1,8,46437,65,Indonesia,false,true,2,24,2,2,false,100
+Černošín,false,2,12,5950,29,Czech Republic,false,false,0,24,1,89,false,1
+Paraíso,false,1,3,189901,6,Portugal,true,false,3,22,2,8,false,60
+Bo Kluea,false,1,10,68719,6,Thailand,true,true,0,14,1,55,false,38
+Azteca,true,2,15,125715,50,Mexico,true,true,0,14,3,41,true,34
+Järfälla,true,4,1,70277,14,Sweden,true,false,4,25,5,68,true,0
+Tlučná,true,3,3,111129,70,Czech Republic,false,false,2,15,5,65,true,63
+Santana,false,3,13,153795,18,Brazil,false,true,3,21,5,12,false,23
+Milano,true,1,14,188224,90,Italy,true,true,4,33,1,86,false,40
+San Pedro,false,4,15,182315,36,Mexico,true,false,4,16,2,73,true,54
+Tours,true,2,12,43460,58,France,true,true,0,34,5,53,false,60
+Vincennes,true,2,0,183573,19,France,true,true,3,28,4,8,false,34
+Montpellier,false,4,11,168388,16,France,true,false,4,17,4,32,true,65
+Créteil,true,4,7,101809,46,France,true,true,2,33,5,40,true,93
+Amphoe Sikhiu,false,1,8,104463,2,Thailand,false,false,4,18,1,80,true,46
+Clamart,true,1,14,130695,18,France,false,false,1,20,3,39,true,7
+Luna,true,2,12,148519,75,Philippines,true,false,0,37,5,97,false,73
+Morelos,true,4,9,72122,76,Mexico,false,false,4,29,1,32,true,83
+Condoroma,false,3,7,7193,67,Peru,true,false,4,20,2,4,false,18
+Kosan,false,4,9,84063,90,North Korea,true,true,1,36,4,89,false,5
+Ust’-Dzheguta,true,2,1,170471,26,Russia,false,false,4,15,4,17,false,1
+Boyle,true,1,7,76965,74,Ireland,true,false,0,15,4,62,true,8
+Pakel,true,1,4,177308,87,Indonesia,true,true,0,40,2,5,true,86
+Ciudad Nueva,false,1,11,84432,57,Dominican Republic,false,false,2,27,2,2,true,41
+Zaqatala,false,4,3,143893,18,Azerbaijan,false,false,4,17,3,73,false,33
+Nirgua,true,1,14,6518,11,Venezuela,false,true,4,32,3,71,false,21
+Yangong,false,3,4,100709,67,China,true,true,4,26,3,37,false,43
+Chicoana,true,4,8,175769,22,Argentina,true,true,2,31,4,50,true,4
+Albania,true,1,9,160368,81,Colombia,true,false,0,27,4,2,true,30
+Facatativá,true,3,13,53521,46,Colombia,true,false,1,19,4,70,true,31
+Santa Cruz de Yojoa,false,4,1,170393,75,Honduras,false,true,0,34,1,88,false,88
+Lunenburg,false,2,10,47545,88,Canada,true,true,2,22,5,89,true,35
+Batangtoru,false,3,15,83208,26,Indonesia,true,true,1,16,1,39,true,52
+Horní Bříza,true,4,6,76743,23,Czech Republic,true,false,4,24,1,20,true,82
+Powidz,false,3,7,63653,27,Poland,true,false,1,28,1,80,true,66
+Purwosari,false,4,15,135151,10,Indonesia,true,true,3,27,3,5,true,72
+Youssoufia,false,2,7,114957,22,Morocco,false,false,2,37,2,99,false,96
+Torsby,true,4,10,106257,62,Sweden,false,true,0,33,3,69,true,51
+Ocote Paulino,true,4,12,95653,18,Honduras,false,true,3,18,3,15,false,79
+Lam Sonthi,false,2,10,87052,22,Thailand,false,false,4,17,3,66,false,9
+Gala,false,3,13,90024,46,China,false,true,3,33,3,37,true,52
+Zwolle,false,4,15,67524,81,Netherlands,true,false,1,35,5,97,true,46
+‘Afrīn,false,3,0,117574,59,Syria,true,true,4,32,1,89,false,54
+Bendan,false,4,14,20676,55,Indonesia,false,false,4,20,3,50,false,3
+Jiblah,false,3,13,21321,36,Yemen,true,false,2,20,1,40,true,74
+Proptisht,true,4,7,110326,41,Albania,false,true,0,14,4,71,false,89
+Jianshe,true,1,14,2767,29,China,true,true,3,30,1,48,true,89
+Kanaya,true,3,12,178014,66,Japan,false,true,0,27,4,48,false,19
+Kaminoyama,false,1,13,166524,55,Japan,true,true,0,36,2,67,false,99
+Macapsing,false,1,1,169340,21,Philippines,false,true,4,19,3,71,false,27
+Kokkini Trimithia,true,2,9,26089,86,Cyprus,false,false,0,29,5,4,false,67
+Campo de la Cruz,true,3,6,173075,7,Colombia,true,true,2,20,5,87,false,75
+Escuintla,false,3,10,19202,24,Guatemala,true,true,3,14,1,22,false,63
+Bahía Blanca,false,2,1,75126,13,Argentina,false,false,4,16,3,28,true,25
+Las Junturas,true,2,3,5339,45,Argentina,true,true,1,37,3,77,true,78
+Ţahţā,false,1,2,133616,6,Egypt,false,false,4,20,1,76,false,69
+Pau,false,2,0,37785,81,France,false,false,4,28,4,28,true,86
+Xiagang,true,2,9,166822,81,China,false,true,0,38,2,75,true,91
+Rio Verde de Mato Grosso,true,4,13,177245,71,Brazil,false,true,4,37,3,69,true,97
+Tunggulsari,false,2,9,151542,82,Indonesia,false,false,1,35,3,16,false,17
+Jiangnan,true,3,1,77416,70,China,true,false,4,40,1,33,false,52
+Maliuzui,false,4,5,65249,69,China,false,false,3,36,2,79,false,70
+Gīdolē,true,3,1,111507,23,Ethiopia,true,true,0,14,1,70,false,38
+Solnechnoye,true,3,12,117995,89,Russia,true,false,4,17,5,12,true,18
+Baume-les-Dames,true,4,5,102135,46,France,false,true,0,34,4,17,true,99
+Firminópolis,false,2,8,81789,73,Brazil,true,false,2,17,4,33,false,96
+Luyang,false,3,14,176593,68,China,true,false,0,25,5,13,true,73
+Kurba,true,1,3,169662,86,Russia,true,false,3,18,3,23,false,5
+Tamnag,false,1,11,41737,56,Philippines,true,true,0,30,5,97,true,94
+Navais,false,4,13,56743,35,Portugal,true,false,4,23,5,44,true,42
+Güines,false,4,0,44284,39,Cuba,false,false,1,19,2,58,true,81
+Waru,true,2,10,50820,38,Indonesia,true,true,2,19,4,45,false,92
+El Aguilar,true,3,9,7776,64,Argentina,true,true,2,23,3,15,false,42
+Handaqi,true,3,11,172776,46,China,false,false,3,36,4,67,true,73
+Progër,true,2,1,117121,23,Albania,true,true,2,31,3,9,false,77
+Katur,false,2,3,105106,75,Indonesia,false,false,2,36,5,99,true,24
+Vanderbijlpark,false,1,15,18340,62,South Africa,true,true,0,29,5,17,false,100
+Nikhom Phattana,true,4,5,169777,44,Thailand,true,false,0,34,3,80,true,15
+Zhaotong,false,3,7,111701,6,China,true,true,4,27,1,96,false,22
+Hushan,false,4,0,132166,82,China,false,false,2,24,5,36,true,49
+København,false,2,14,64476,50,Denmark,false,true,1,38,4,9,false,84
+Nová Cerekev,true,3,8,16544,34,Czech Republic,false,false,1,20,3,29,true,29
+Sabang,true,4,4,126427,37,Indonesia,true,true,2,33,5,9,false,67
+Timoulilt,false,1,11,43465,86,Morocco,false,false,1,38,3,45,false,38
+Tangdukou,false,2,5,185715,23,China,true,false,2,40,3,71,true,81
+San Pedro,true,4,8,121735,45,Costa Rica,false,true,0,19,2,5,false,8
+Senhor da Serra,true,1,15,97963,16,Portugal,false,false,2,17,4,100,false,80
+Baixi,true,4,4,18644,86,China,false,false,4,40,4,96,false,0
+Taloqan,false,1,11,72444,18,Afghanistan,false,false,0,20,3,45,false,66
+Zhize,true,2,7,157395,87,China,false,true,1,27,2,88,false,88
+Gvardeysk,true,1,6,31938,50,Russia,true,false,3,40,2,4,true,38
+Sekondi-Takoradi,false,4,14,52876,81,Ghana,false,true,0,20,1,70,false,22
+Lazaro Cardenas,false,4,0,39930,89,Mexico,true,true,2,37,4,0,false,24
+Babagan,true,2,0,168454,45,Indonesia,false,false,3,31,2,3,true,22
+Bubanza,false,1,3,61326,47,Burundi,true,false,0,29,5,38,false,4
+Bintawan,false,1,1,19239,46,Philippines,false,true,0,33,1,90,true,22
+Buikwe,false,4,5,121705,63,Uganda,true,true,0,23,4,7,false,99
+Tiechanggou,true,3,2,39418,7,China,true,false,2,31,4,4,false,78
+Yuta,true,4,10,185354,81,Palestinian Territory,false,true,2,39,1,89,true,96
+Viljoenskroon,true,4,15,8921,70,South Africa,true,false,2,36,1,48,true,70
+Podgorica,true,3,4,16838,18,Montenegro,true,true,4,28,3,84,false,74
+Avelar,false,4,9,49800,30,Portugal,false,true,3,36,4,27,true,0
+Usa River,true,1,7,187093,72,Tanzania,false,false,0,18,1,40,false,38
+Owode,false,2,7,76094,79,Nigeria,false,false,4,32,3,74,false,19
+Sanchang,true,3,15,172246,22,China,false,false,2,20,2,27,false,26
+Yangzi Jianglu,false,3,12,50702,31,China,false,true,1,32,1,93,true,4
+Yushugou,true,3,2,96101,63,China,false,true,1,28,4,1,false,7
+Caxambu,false,2,2,148077,20,Brazil,true,false,0,28,1,81,false,32
+Port-au-Prince,true,1,7,107220,48,Haiti,false,false,2,37,4,97,true,11
+Buena Esperanza,true,2,3,187911,44,Argentina,false,false,1,31,1,87,false,8
+Bafoulabé,false,2,15,119066,59,Mali,true,false,0,22,1,12,false,18
+La Mohammedia,false,2,9,6557,81,Tunisia,false,false,2,39,3,91,false,39
+Putrajaya,true,3,10,173531,26,Malaysia,false,true,1,35,1,38,true,94
+Erada,true,2,14,70444,69,Portugal,true,true,0,27,5,72,false,31
+Lukolela,false,2,12,77052,75,Democratic Republic of the Congo,true,true,4,40,2,83,false,18
+Dayin,true,4,10,48975,41,China,true,true,3,38,3,90,false,59
+Rukungiri,true,1,9,183580,14,Uganda,true,true,0,14,5,62,true,37
+Xinkai,false,1,3,123021,39,China,true,false,1,36,3,28,true,95
+Hwangju-ŭp,true,2,7,34840,21,North Korea,false,false,4,38,4,93,false,88
+Nyakhachava,true,1,10,85800,10,Belarus,false,true,0,17,5,70,true,28
+Heping,true,3,11,62918,79,China,true,false,0,27,3,53,true,42
+Kilju,true,3,15,73814,10,North Korea,false,false,2,31,4,22,false,60
+Capioví,false,4,8,110856,2,Argentina,true,true,0,32,4,81,false,52
+Chengzi,false,4,10,98973,41,China,true,true,3,14,1,27,false,53
+Yirshi,true,4,7,28639,41,China,true,true,3,35,2,57,true,71
+Torrijos,true,2,11,109540,43,Philippines,true,false,1,22,5,32,true,44
+Lagoa Vermelha,false,3,5,38211,3,Brazil,false,true,1,14,2,60,false,86
+Tegalalang,false,2,8,120224,40,Indonesia,true,false,1,36,2,41,false,28
+Monte Patria,false,2,12,51216,53,Chile,true,false,2,16,5,24,true,92
+Ad Dawḩah,true,3,7,56575,42,Palestinian Territory,true,true,0,21,5,20,false,73
+Jiangkou,true,4,1,63657,83,China,false,false,0,28,2,65,true,53
+Nggalak,true,1,7,136072,55,Indonesia,false,true,1,37,5,68,false,82
+Rossosh’,false,1,8,114920,62,Russia,false,false,2,35,3,35,true,61
+Frydrychowice,false,2,11,124226,1,Poland,false,false,1,23,1,96,true,33
+Yegorlykskaya,true,3,5,86299,37,Russia,false,true,1,38,3,14,false,60
+Taihe,false,4,15,32193,34,China,false,false,2,33,5,10,true,53
+Dallas,true,3,9,87772,88,United States,false,true,1,39,5,95,true,95
+Chornorudka,true,1,8,100630,45,Ukraine,true,true,0,36,5,3,false,13
+Lamas,true,1,12,101875,17,Portugal,true,false,4,26,2,12,true,12
+Balungkopi,false,4,5,49462,85,Indonesia,false,true,4,35,1,56,true,13
+Huarancante,true,3,11,72406,85,Peru,true,false,4,27,2,18,true,34
+Chakari,false,1,11,161518,73,Zimbabwe,false,true,0,32,2,56,false,42
+Mernek,true,2,0,21207,51,Indonesia,true,false,0,33,1,93,false,98
+Pragen Selatan,false,1,13,165357,18,Indonesia,false,false,3,37,1,22,true,95
+Chiclayo,true,2,2,18554,4,Peru,false,true,0,40,2,82,true,78
+Tigaherang,false,1,14,13716,62,Indonesia,true,false,3,21,4,6,true,44
+Damai,false,3,2,91654,66,China,false,false,4,23,1,45,true,74
+Anuradhapura,false,2,5,28950,15,Sri Lanka,false,false,0,19,3,19,false,81
+Hamburg Harvestehude,true,2,6,98151,41,Germany,false,true,0,28,1,57,false,88
+Wola Filipowska,true,1,0,12265,39,Poland,false,true,4,28,2,54,false,88
+Jbaïl,true,1,7,41326,86,Lebanon,false,false,3,32,3,23,false,55
+Tyshkivka,false,3,12,176688,85,Ukraine,false,false,4,18,1,93,false,84
+Benito Juarez,true,3,4,189802,9,Mexico,false,false,3,27,2,77,false,49
+Jammā‘īn,false,4,1,101469,3,Palestinian Territory,false,false,4,26,5,89,true,100
+Nerópolis,true,4,8,19426,59,Brazil,true,true,0,14,1,40,false,30
+Itajubá,true,2,4,80948,55,Brazil,false,true,1,37,1,43,true,94
+Kisarazu,false,3,8,65956,85,Japan,true,true,2,21,3,65,false,86
+Pinsk,false,2,8,103999,19,Belarus,true,false,3,26,5,50,false,17
+Dishnā,true,2,8,121419,45,Egypt,false,true,0,18,5,6,false,88
+Yatsuomachi-higashikumisaka,false,2,14,122675,51,Japan,false,false,4,31,5,69,false,32
+Costa Nova do Prado,false,4,15,157596,47,Portugal,true,false,0,29,1,69,false,86
+Megáli Khóra,false,1,14,127406,85,Greece,false,true,2,39,2,52,true,3
+Saquarema,true,3,8,171243,72,Brazil,true,true,4,27,3,59,true,51
+Cogreg Wetan,true,2,13,82778,40,Indonesia,true,false,4,27,1,11,true,21
+Bekwai,false,3,14,136514,74,Ghana,true,true,4,19,3,75,false,76
+Ponce,false,3,2,168259,73,Puerto Rico,false,true,2,38,2,74,true,8
+Chekmagush,true,2,3,25196,18,Russia,true,true,4,17,5,69,true,82
+Khóra,true,3,4,151433,74,Greece,true,false,4,26,2,17,true,4
+Kendaruan,false,2,7,80269,38,Indonesia,true,false,3,40,2,44,false,26
+Weicheng,true,3,4,43249,43,China,true,true,1,38,5,3,false,36
+Taoxi,true,1,0,149208,45,China,false,true,2,16,2,54,false,6
+Ghurayd Gharamē,false,1,13,9283,48,Afghanistan,false,false,4,17,4,77,false,93
+Kashima,true,3,11,30669,85,Japan,true,false,4,18,1,69,true,10
+Chenyangzhai,true,1,1,22559,10,China,true,true,4,39,1,39,true,78
+Normanton,true,3,3,56157,86,United Kingdom,true,true,4,29,4,68,false,62
+Šumice,false,4,10,96793,46,Czech Republic,true,true,4,27,1,80,true,77
+Casal Novo,false,3,15,128467,35,Portugal,true,true,4,32,1,55,false,36
+Korsun’-Shevchenkivs’kyy,true,2,4,4888,64,Ukraine,false,true,2,19,1,64,false,51
+Kosava,true,1,1,189973,40,Belarus,false,false,2,15,3,42,false,53
+London,false,3,4,51722,57,United Kingdom,false,true,4,22,4,37,true,18
+Louisville,true,3,3,64314,23,United States,true,false,3,36,5,7,false,39
+Cova da Iria,false,2,4,118922,6,Portugal,false,false,0,29,4,53,true,67
+Lysekil,true,1,10,114372,10,Sweden,true,false,2,35,3,50,false,36
+Charneca da Cotovia,true,4,1,83363,33,Portugal,false,false,3,19,4,9,true,77
+Adirejo,false,3,7,42290,72,Indonesia,true,true,2,14,3,97,true,53
+Xifengshan,false,3,8,96116,48,China,false,false,2,32,5,86,true,42
+Songjiang,true,2,8,144210,90,China,false,true,3,35,2,34,true,71
+Gorodishche,true,3,11,140659,80,Russia,false,true,1,24,4,32,false,6
+Hartswater,true,2,5,60207,85,South Africa,false,true,2,14,3,60,true,70
+Kombandaru,true,3,0,1057,59,Indonesia,false,true,0,32,5,19,true,6
+Ratchathewi,false,1,13,189808,81,Thailand,true,true,1,26,5,11,true,100
+Sutukoba,true,1,3,5345,68,Gambia,false,false,2,33,5,9,true,43
+Västervik,false,2,6,179041,24,Sweden,true,false,1,27,1,32,true,40
+El Hamma,false,1,11,87936,5,Tunisia,true,true,2,15,5,35,false,83
+Corbeil-Essonnes,true,1,1,66486,2,France,true,true,1,24,4,96,false,0
+Gulao,true,1,11,33444,83,China,true,false,1,28,5,25,false,1
+Pępowo,false,1,6,101004,12,Poland,true,true,2,20,2,21,false,98
+San Isidro,true,2,4,116685,45,Peru,true,false,4,34,4,6,false,82
+Chełmża,true,1,6,177114,89,Poland,true,false,1,30,2,89,true,46
+Akkol’,true,4,3,148861,84,Kazakhstan,true,false,2,28,4,62,false,4
+Zaolin,false,1,14,152764,63,China,true,false,2,22,1,9,true,89
+Lipa City,false,1,1,147239,39,Philippines,true,false,3,14,3,48,true,1
+Pamplona,true,3,0,102603,13,Colombia,true,false,1,31,5,87,true,96
+Khuan Don,true,2,4,123942,89,Thailand,false,false,0,35,4,100,true,0
+Baiba,false,4,0,13550,48,China,false,true,0,34,5,59,true,34
+Macari,true,2,13,92914,27,Peru,false,false,0,34,2,22,true,12
+Masape,true,1,7,54914,12,Indonesia,false,true,2,16,3,78,false,38
+Stronie,true,1,9,172030,13,Poland,true,true,1,22,5,87,false,61
+Tsalka,true,4,5,8044,9,Georgia,false,true,0,25,5,85,true,45
+Capitán Sarmiento,false,2,7,120597,36,Argentina,true,false,2,36,5,72,true,58
+Pacatuba,false,1,8,48460,40,Brazil,false,true,2,24,2,92,false,78
+Nové Strašecí,true,2,13,115834,43,Czech Republic,true,true,2,14,2,99,true,8
+Duitama,false,1,3,149809,68,Colombia,false,true,3,36,5,31,true,22
+Berlin,false,4,9,42754,33,Germany,false,false,0,22,1,74,true,100
+Siquisique,true,4,8,16357,85,Venezuela,false,true,1,14,1,50,true,23
+Serang,false,2,10,68317,22,Indonesia,false,false,3,15,3,79,false,21
+Chakari,false,4,12,76838,45,Zimbabwe,false,true,3,30,1,27,true,100
+Jiachuan,true,2,0,90786,27,China,false,false,1,27,3,25,true,98
+Guaporé,false,4,14,38482,22,Brazil,false,false,1,14,4,19,true,45
+Pedro Betancourt,false,2,3,2254,17,Cuba,true,true,4,25,1,51,true,41
+Baiyang,true,3,2,113526,11,China,false,false,1,37,3,3,true,49
+Salam,false,4,5,113616,62,Indonesia,false,true,2,28,3,48,true,98
+Bearna,false,2,5,3066,79,Ireland,true,false,4,24,3,2,true,51
+Bontoc,true,3,13,135249,9,Philippines,true,true,1,27,1,48,false,35
+Druzhba,true,4,13,157349,37,Ukraine,true,true,2,20,2,44,false,1
+Tanagara,false,1,0,154992,37,Indonesia,true,true,0,14,4,27,false,45
+Xuefu,false,2,0,109270,21,China,true,true,0,24,3,97,false,86
+Yanhe,false,3,14,65831,66,China,false,false,3,24,3,56,false,5
+Dukou,false,3,4,49256,65,China,true,true,1,33,1,4,true,81
+Borås,false,3,7,155410,39,Sweden,false,false,1,14,1,26,false,26
+Argalastí,false,2,15,143013,64,Greece,true,true,0,19,3,65,false,83
+Shuangcheng,true,2,14,39630,59,China,false,true,2,16,3,81,true,29
+Xinglong,false,1,15,30532,14,China,false,false,2,34,3,48,true,30
+Campechuela,true,3,9,17424,33,Cuba,false,false,4,34,5,63,true,37
+Osięciny,false,1,12,185660,34,Poland,true,false,1,28,3,49,false,16
+Praya,true,3,1,139051,27,Indonesia,false,false,0,33,1,40,false,95
+Buriti Bravo,true,4,12,19886,23,Brazil,false,false,1,35,3,48,false,78
+Volzhsk,true,3,2,193335,6,Russia,true,false,3,29,2,23,false,75
+Yuannan,false,4,1,97189,33,China,false,false,0,38,5,3,true,88
+Pizarrete,false,3,15,128043,31,Dominican Republic,true,false,0,36,5,90,true,79
+Colonia Mauricio José Troche,true,1,11,12478,85,Paraguay,false,false,4,32,1,2,false,51
+Blumenau,true,4,13,72478,1,Brazil,false,false,4,27,3,35,true,1
+Blerim,false,3,1,138310,33,Albania,false,true,2,37,5,33,false,26
+Agana Heights Village,false,2,13,150200,42,Guam,false,false,2,14,3,91,false,63
+Liaobu,true,3,7,106445,35,China,false,true,3,23,2,66,true,79
+Žabljak,false,1,8,190739,37,Montenegro,true,true,2,21,5,62,true,68
+Lyublino,true,2,5,163580,62,Russia,true,false,3,33,1,85,false,58
+Medvedovskaya,true,2,8,103936,8,Russia,false,true,0,31,2,1,true,96
+Ciudad del Este,false,4,0,110237,75,Paraguay,false,false,2,32,4,49,false,49
+Delok,false,2,8,154130,79,Indonesia,true,true,2,17,5,50,true,27
+Fukuechō,true,2,7,111711,53,Japan,false,false,3,22,2,40,false,83
+Cúcuta,false,4,13,20048,58,Colombia,true,true,0,38,2,89,false,6
+Saint-Louis,true,3,1,72768,87,Senegal,true,true,1,16,4,59,true,24
+Kyaikto,true,4,8,62656,68,Myanmar,false,false,1,24,1,18,false,66
+West Palm Beach,true,3,7,5327,71,United States,false,true,2,31,1,75,false,96
+Sumberejo,false,1,15,70706,22,Indonesia,false,false,3,27,4,1,false,9
+Adámas,false,2,9,80092,16,Greece,false,true,1,21,2,9,true,65
+Ambositra,true,1,5,63241,40,Madagascar,false,false,3,20,5,92,false,54
+Bududa,false,1,5,8024,86,Uganda,true,true,0,35,2,61,true,97
+Rychwał,true,1,6,39588,4,Poland,true,false,1,24,5,48,true,71
+Kamo,false,1,10,20856,6,Japan,false,true,3,17,2,71,false,74
+Calvão,false,4,11,48007,87,Portugal,false,true,1,16,4,83,false,81
+Sintra,false,2,9,37230,20,Portugal,false,true,4,26,5,75,true,24
+Nanqiao,true,1,14,14168,34,China,true,false,0,30,4,18,false,37
+Litibakul,true,1,15,32073,69,Indonesia,false,true,2,32,2,70,true,12
+Holice,false,4,2,192663,8,Czech Republic,false,false,4,34,3,96,false,27
+Di Linh,false,3,12,146623,21,Vietnam,true,true,3,26,5,79,false,14
+Lamalewo,false,2,13,4884,64,Indonesia,false,true,2,23,2,3,false,26
+Naḩḩālīn,true,3,14,187998,42,Palestinian Territory,true,false,3,37,2,83,false,72
+Caijiang,true,1,0,66915,32,China,false,false,3,27,4,64,true,18
+Kedunglo,false,4,4,47538,58,Indonesia,true,false,1,39,4,46,false,11
+Orekhovo-Borisovo Severnoye,false,1,1,149661,16,Russia,false,false,0,27,2,31,true,75
+Ilagan,true,2,12,79883,82,Philippines,true,false,3,34,1,84,true,94
+Pichilemu,true,2,4,174541,64,Chile,true,false,4,25,4,23,false,73
+Tha Luang,false,2,5,134769,0,Thailand,false,false,1,32,2,3,true,92
+Santa Teresa,false,4,3,80205,5,Philippines,true,false,0,34,2,79,false,77
+Lynchburg,true,2,7,127825,34,United States,false,true,1,21,2,61,false,67
+Xinan,true,2,12,76117,20,China,false,true,4,30,5,83,true,54
+Reguenga,false,3,11,185991,57,Portugal,false,false,4,30,1,85,false,84
+Pocokan Satu,false,4,10,72613,89,Indonesia,false,false,4,18,5,81,true,19
+Ngandangan,true,1,4,132180,21,Indonesia,false,false,4,30,4,1,false,55
+Vysokovsk,true,1,4,172077,85,Russia,true,false,0,30,2,93,false,14
+Tommot,true,1,1,191980,36,Russia,false,true,1,20,3,0,false,18
+Ostankinskiy,true,3,8,58405,60,Russia,true,false,2,32,2,32,true,74
+Santa Rita,false,4,2,50694,15,Mexico,true,true,4,28,2,49,false,67
+Villeneuve-lès-Avignon,false,2,2,43184,56,France,false,false,3,24,5,46,true,5
+Pueblo Nuevo,true,3,11,162472,26,Panama,true,true,3,17,1,91,false,15
+Guanyinsi,true,1,4,59890,48,China,false,false,1,36,1,26,true,69
+Ferrol,false,3,3,49178,32,Philippines,false,true,1,16,1,28,true,13
+La Charité-sur-Loire,true,2,3,108288,22,France,true,false,3,21,1,25,false,8
+Saint-Jouan-des-Guérets,false,1,3,88145,88,France,true,false,0,35,1,13,false,62
+Meaux,false,1,11,93558,42,France,false,true,0,30,2,59,false,37
+Coromandel,true,3,10,180729,1,Brazil,false,true,4,22,2,69,false,91
+Cakungsari,false,4,15,73401,48,Indonesia,false,true,4,14,1,63,true,78
+San Juan de Manapiare,false,1,1,16373,83,Venezuela,true,true,3,40,5,38,true,62
+Babatngon,false,1,12,118839,81,Philippines,false,true,1,37,1,80,true,87
+Ngurensiti,false,3,15,124093,68,Indonesia,false,true,1,40,5,52,false,31
+Kota Kinabalu,true,1,7,28698,22,Malaysia,false,true,1,26,1,19,true,0
+Dupi,false,3,13,187784,78,China,false,true,0,22,2,12,false,68
+Jambesari,false,3,11,143234,16,Indonesia,false,true,2,33,3,58,false,41
+Nanterre,true,3,3,175980,74,France,false,false,4,29,5,24,true,50
+Nunleu,true,4,12,154615,36,Indonesia,true,false,3,18,2,91,false,99
+Jindřichův Hradec,true,3,2,132399,13,Czech Republic,true,true,2,29,4,51,true,87
+Bowang,true,2,3,111830,14,China,false,false,4,14,4,65,true,16
+Peshtera,false,3,13,41820,30,Bulgaria,true,true,0,31,1,3,false,75
+Daqiao,true,1,6,54507,25,China,true,false,0,14,4,71,false,83
+Kasingan,true,2,15,63391,18,Indonesia,true,true,4,14,3,38,false,50
+Zangbawa,false,4,1,70753,29,China,false,true,0,16,5,6,true,26
+Bulawayo,false,1,7,113324,9,Zimbabwe,false,false,3,22,3,47,false,45
+Cabodiongan,true,1,5,164372,85,Philippines,false,true,3,20,2,11,true,69
+Kabacan,true,2,4,70938,53,Philippines,true,true,0,16,1,9,false,52
+Long Layu,true,2,8,123560,23,Indonesia,false,false,0,36,2,7,true,24
+Los Tangos,true,4,9,7306,17,Honduras,false,true,2,27,2,85,false,18
+Quintãs,true,4,11,124250,49,Portugal,true,true,1,33,2,97,true,79
+Täby,true,1,12,130148,40,Sweden,true,true,2,14,5,99,false,41
+Takokak,true,2,11,23099,28,Indonesia,true,true,0,26,5,32,false,46
+Les Clayes-sous-Bois,true,4,0,158085,62,France,false,false,4,23,2,82,false,73
+Lusong,true,3,0,105660,26,Philippines,true,false,3,24,3,13,false,39
+Genyem,true,3,0,178265,81,Indonesia,false,true,2,28,4,52,false,92
+Ambarita,false,1,11,7419,37,Indonesia,true,false,0,24,4,63,false,81
+Bueng Kan,true,3,9,168437,76,Thailand,true,true,1,26,2,14,true,11
+Beutong Ateuh,true,1,0,44055,65,Indonesia,true,false,0,36,5,82,true,21
+La Jagua de Ibirico,true,4,1,132884,81,Colombia,false,true,4,31,4,49,true,93
+Solana,false,1,8,11391,89,Philippines,false,false,0,14,3,54,true,94
+Hamhŭng,true,1,15,190221,67,North Korea,true,false,3,40,4,97,true,33
+Ujung,false,1,3,140700,80,Indonesia,true,true,0,29,3,74,true,15
+Samir,true,3,11,150135,14,Indonesia,false,true,0,20,1,17,true,33
+Dingcheng,true,2,5,133966,29,China,false,true,1,37,3,81,true,21
+El Perico,false,1,11,93680,77,Honduras,false,true,4,21,4,11,true,57
+Darungan,true,3,12,96841,43,Indonesia,false,true,0,38,1,22,false,80
+Concepcion,false,2,14,93275,61,Philippines,true,false,1,17,2,46,true,78
+Nandaime,true,1,7,115250,79,Nicaragua,true,false,1,17,2,39,false,44
+Lancar,true,3,8,66750,34,Indonesia,true,false,0,33,2,100,false,55
+Zgornje Bitnje,false,4,3,19467,64,Slovenia,true,false,4,23,2,93,false,98
+Mariana,false,3,8,90263,1,Brazil,false,true,1,33,5,35,false,92
+Mayang,true,2,7,12596,86,China,false,true,2,19,3,7,true,54
+Hemudu,false,2,10,133798,16,China,false,true,4,23,5,92,true,87
+Sukamaju,true,1,5,94885,57,Indonesia,false,false,1,14,5,61,false,50
+Ban Takhun,false,2,2,156088,21,Thailand,false,true,2,31,1,10,false,18
+Huangshi,false,3,10,126541,42,China,false,true,2,23,5,55,true,75
+Bromma,true,3,14,35028,57,Sweden,true,true,1,19,5,21,false,57
+Obolensk,false,2,8,97810,7,Russia,true,true,1,33,2,40,true,50
+Jan Kempdorp,true,1,6,192101,62,South Africa,true,true,0,24,1,96,true,75
+Kōchi-shi,true,1,11,91715,37,Japan,true,true,4,17,4,79,false,62
+Mlawat,false,3,3,190093,58,Indonesia,false,true,1,23,4,40,false,83
+Quma,false,2,12,18744,52,China,true,true,2,39,1,68,false,67
+Xiugu,true,4,10,183386,70,China,true,false,0,40,2,40,true,3
+Jianggang,false,4,0,17200,51,China,false,false,4,37,1,0,false,39
+Chatou,false,3,8,187646,23,China,false,false,4,35,4,17,true,24
+Goge,true,2,2,61170,28,Indonesia,false,true,3,26,4,6,false,85
+Gurinai,true,2,3,95493,24,China,false,true,0,31,5,36,true,14
+Kwangmyŏng,false,4,15,177110,62,South Korea,false,false,1,30,2,81,true,36
+Yaroslavl,true,2,1,20450,60,Russia,true,true,0,20,2,71,true,99
+Saint-Louis du Sud,true,4,8,75737,36,Haiti,false,true,1,25,4,84,false,91
+Ranilug,false,1,14,137596,84,Kosovo,false,false,3,17,5,17,false,66
+Desa Werasari,false,1,10,25402,70,Indonesia,false,true,3,16,2,15,false,7
+Juanshui,true,2,8,185086,83,China,true,true,4,29,5,94,false,8
+Manolo Fortich,true,3,15,125979,38,Philippines,false,false,0,15,2,69,true,9
+Nuuk,false,1,6,69756,59,Greenland,false,false,3,23,4,55,true,5
+Youghal,true,3,3,86517,38,Ireland,false,true,4,16,3,51,true,91
+Tonggu,false,4,12,172524,38,China,true,false,3,35,3,59,false,65
+Denver,false,3,0,14280,56,United States,true,true,3,29,4,89,false,50
+Ullulluco,false,4,3,170576,49,Peru,true,true,4,27,5,76,false,84
+Asquipata,false,4,1,168379,89,Peru,true,false,0,24,3,98,true,96
+Korsakovo,false,3,5,142047,20,Russia,false,true,3,37,5,63,false,95
+Próchoma,false,3,15,96122,55,Greece,true,false,1,22,5,60,false,49
+Shanghu,true,3,15,149242,7,China,true,false,1,24,1,63,false,14
+Xia’ertai,false,1,11,120919,78,China,true,true,0,30,5,65,true,88
+Quận Tân Phú,true,4,1,32903,41,Vietnam,false,false,4,28,3,45,false,64
+Irkliyevskaya,true,2,14,69138,38,Russia,false,true,3,29,3,29,false,67
+Huayuan,false,2,15,45290,42,China,true,false,4,28,2,15,false,53
+Przodkowo,true,4,3,21530,2,Poland,false,false,4,28,3,71,true,55
+Meaux,false,2,9,160455,48,France,true,true,0,28,5,41,false,36
+Nyköping,false,3,12,28805,35,Sweden,false,true,3,40,4,68,false,95
+La Fortuna,true,3,10,99131,76,Philippines,false,false,1,38,4,52,true,72
+Strizhi,true,1,10,50903,31,Russia,false,false,3,20,3,3,true,62
+Mueang Suang,true,1,0,38685,60,Thailand,false,false,3,22,3,51,false,36
+El Calvario,true,4,0,131636,72,Mexico,false,false,3,20,3,23,true,67
+Nanyo,true,2,3,139808,84,Philippines,false,false,1,14,4,100,false,47
+Koina,false,2,11,117520,23,Gambia,true,true,3,16,1,38,false,75
+Szydłowo,false,2,0,101458,8,Poland,false,true,1,34,3,34,false,40
+Rietavas,false,1,12,165645,34,Lithuania,true,true,1,28,2,39,false,16
+Beaufort,false,1,3,333,54,United States,false,true,3,30,5,84,true,20
+Jaru,false,3,2,84140,83,Brazil,false,true,2,35,4,35,false,11
+Xinjian,false,3,6,79906,48,China,true,false,0,20,3,38,false,29
+Grande Rivière du Nord,true,1,15,55733,39,Haiti,true,false,4,27,4,59,false,97
+Daszewice,true,2,12,9674,14,Poland,false,true,1,23,5,41,false,51
+Torez,false,2,5,183010,7,Ukraine,true,false,4,27,2,19,true,38
+Pingyang,true,2,8,39804,7,China,true,true,0,26,4,32,false,23
+Yartsevo,false,4,4,1736,56,Russia,true,true,2,17,3,63,true,28
+Luoyang,false,3,12,21117,20,China,false,true,2,21,2,39,false,58
+Bessonovka,false,2,8,121971,7,Russia,false,true,3,17,2,60,false,56
+Pio Duran,false,3,7,162566,45,Philippines,true,true,2,18,3,68,false,18
+Vilhelmina,false,1,13,46485,74,Sweden,false,true,2,26,4,78,true,79
+Garibaldi,false,3,13,184497,73,Brazil,false,false,0,27,3,49,true,39
+Yaroslavl,false,2,13,144076,89,Russia,false,false,0,39,3,88,true,36
+Nässjö,true,1,1,154327,45,Sweden,false,true,1,22,5,64,true,13
+Göteborg,true,2,7,148717,1,Sweden,false,true,4,25,1,48,true,17
+Kadugedong,false,3,10,7120,9,Indonesia,false,true,0,39,4,79,false,34
+Kuala Lumpur,false,2,2,157722,89,Malaysia,false,false,1,39,5,64,false,12
+Kiernozia,true,1,1,117633,64,Poland,false,false,0,32,4,43,false,42
+Rio Formoso,false,2,2,54031,23,Brazil,false,true,4,37,2,32,true,55
+Boroko,true,1,0,76422,45,Indonesia,false,false,2,14,5,64,false,19
+Jiancheng,true,1,10,160292,88,China,true,false,4,25,2,10,true,60
+Tutup,true,2,9,131890,29,Indonesia,true,false,4,36,1,67,true,48
+Loukísia,true,4,7,73389,57,Greece,true,true,0,36,1,30,false,37
+Changqiao,false,2,0,983,25,China,false,false,3,26,3,50,false,28
+Farsta,true,4,2,189518,80,Sweden,true,true,3,26,1,10,false,81
+Lomboy,false,2,3,73789,82,Philippines,true,true,1,39,3,29,true,31
+Jinshandian,true,3,15,32713,0,China,true,false,1,30,4,63,false,36
+Conchamarca,false,3,4,58896,61,Peru,true,true,0,26,4,64,false,61
+Ciangir,false,1,12,111504,79,Indonesia,false,false,2,23,2,77,false,8
+Samal,false,1,9,1758,57,Philippines,false,false,1,24,4,5,false,21
+Aimorés,false,1,4,155191,5,Brazil,false,false,0,34,3,57,false,47
+Sandviken,true,2,3,70629,32,Sweden,true,false,0,34,4,45,false,1
+Tučepi,true,1,3,79310,21,Croatia,false,false,3,37,3,39,false,82
+Peña Blanca,true,2,10,178582,57,Honduras,true,true,3,36,2,50,false,47
+Anren,false,4,5,116569,31,China,true,false,1,16,1,60,false,92
+Toulon,true,3,3,39243,21,France,false,true,2,28,1,80,false,64
+San Onofre,true,2,3,7007,26,Colombia,true,true,3,40,2,23,true,29
+Guinobatan,false,1,6,188226,90,Philippines,false,true,0,33,5,73,false,91
+Burgos,true,3,4,160045,27,Philippines,true,true,1,37,5,83,false,56
+Sharan,false,4,2,61271,15,Russia,true,true,0,20,2,79,false,0
+Sanjia,false,1,15,105599,87,China,false,false,4,22,1,42,true,100
+Cachón,false,1,6,2576,24,Dominican Republic,false,true,1,16,2,30,true,35
+Phù Mỹ,false,4,12,163722,71,Vietnam,false,false,0,28,1,3,false,17
+Muli,true,1,3,142019,33,China,false,true,4,37,5,87,false,58
+Kirovsk,true,4,15,47974,78,Russia,false,true,3,31,2,40,false,71
+Campo Largo,true,4,12,134753,1,Brazil,false,true,2,40,3,19,false,12
+Metsavan,false,2,10,49917,11,Armenia,true,true,0,28,4,59,false,4
+Pangantocan,true,2,4,61773,64,Philippines,true,false,4,37,5,66,false,27
+Pendawanbaru,false,2,11,419,81,Indonesia,true,false,4,26,5,12,true,77
+Noramarg,true,3,9,65126,62,Armenia,true,false,3,37,1,72,true,91
+Surgut,true,3,3,97074,16,Russia,false,false,3,19,4,95,false,48
+Ebebiyin,true,4,7,25703,22,Equatorial Guinea,true,true,1,15,2,21,true,65
+Krasnodon,false,2,0,13615,57,Ukraine,true,false,4,30,2,78,true,27
+Enniskerry,false,1,11,156257,50,Ireland,false,true,4,37,1,87,false,46
+Karanganyar,true,4,14,179044,17,Indonesia,true,false,2,26,4,82,true,100
+Perosinho,true,4,12,37975,42,Portugal,false,false,2,17,3,18,true,1
+Shanyang,true,4,2,94366,63,China,true,true,2,38,1,5,false,59
+Zhujiachang,false,3,14,31533,89,China,true,true,4,30,3,15,true,88
+Hermosa,false,3,11,81496,14,Philippines,true,true,2,31,1,67,false,94
+Jiaqiao,true,3,14,49509,21,China,true,true,0,39,5,98,true,97
+Mollebamba,true,3,12,178045,34,Peru,false,true,0,31,3,41,false,69
+Candelaria,true,1,9,74891,72,Colombia,false,false,4,14,3,13,true,95
+Lüjiabao,false,3,10,87244,20,China,false,false,4,28,3,48,false,12
+Arys,false,4,4,22035,21,Kazakhstan,false,true,4,21,5,92,false,89
+Jega,false,3,7,80111,57,Nigeria,true,false,2,32,3,20,true,72
+Haarlem,false,2,1,166289,55,Netherlands,false,false,1,25,5,5,true,19
+Chengbei,true,2,9,9776,14,China,false,false,3,37,4,37,false,39
+Dobra,true,3,15,89385,25,Poland,true,true,0,19,5,36,true,21
+Oslo,false,1,3,28516,49,Norway,true,true,2,15,5,95,true,98
+Dasha,false,4,1,30553,74,China,true,false,1,36,5,36,true,60
+Gorgān,true,2,14,84302,31,Iran,false,true,0,34,1,52,true,38
+Cruces,true,4,1,54325,76,Cuba,true,true,1,14,5,55,false,9
+Boden,false,4,2,113313,38,Sweden,false,true,4,33,2,19,true,48
+Krajan,false,4,7,121203,9,Indonesia,false,false,2,37,1,19,true,90
+Granada,false,1,6,83513,67,Colombia,false,false,4,37,5,28,true,68
+Kudang,false,4,13,47332,14,Indonesia,false,false,4,39,3,13,true,50
+Lankaran,false,2,2,150178,43,Azerbaijan,false,false,3,27,4,84,false,69
+Battle Creek,true,4,7,111485,51,United States,false,false,1,21,2,15,true,72
+Semambung,false,4,5,39528,54,Indonesia,false,false,0,37,5,18,false,95
+Al Khafsah,true,2,13,109825,89,Syria,false,true,1,20,5,26,false,40
+Pergamos,true,2,7,78144,24,Cyprus,false,false,3,20,2,26,true,32
+Shibi,false,4,0,47303,82,China,true,true,1,28,1,15,false,43
+Petrópolis,false,3,12,147164,18,Brazil,true,true,0,37,2,83,true,85
+Yelan’-Kolenovskiy,false,1,10,176974,6,Russia,true,true,1,35,3,15,false,37
+Diourbel,false,2,3,118666,67,Senegal,false,true,1,23,1,74,true,74
+Thị Trấn Tân Yên,false,2,5,65249,9,Vietnam,false,true,0,15,5,56,false,95
+Heredia,false,2,10,45159,9,Costa Rica,false,false,2,26,3,73,true,27
+Riosucio,false,4,1,97642,87,Colombia,false,true,4,26,1,30,false,51
+München,true,3,3,51959,17,Germany,true,false,2,35,3,36,true,40
+Lorient,false,3,12,46844,52,France,false,false,2,22,4,76,false,32
+Strathmore,false,4,1,123346,4,Canada,true,false,0,37,2,18,true,13
+Garça,false,2,2,83314,45,Brazil,true,false,3,22,5,51,true,48
+Bal’shavik,false,2,2,99091,88,Belarus,false,true,2,25,4,38,true,99
+Manzurka,false,4,13,188313,29,Russia,true,true,2,39,3,9,false,28
+Nangong,false,4,15,150779,9,China,true,false,0,31,3,85,true,58
+Veverská Bítýška,false,2,3,109293,34,Czech Republic,false,false,4,32,2,32,true,3
+Wawer,true,2,1,175940,20,Poland,false,true,1,34,3,23,true,15
+Genang,true,4,5,112429,42,Indonesia,true,false,1,16,1,77,true,86
+Yong’an,true,1,13,112088,27,China,false,false,1,40,5,66,true,19
+Kinalaglagan,true,1,8,44936,51,Philippines,false,true,2,39,1,53,false,74
+Venâncio Aires,true,4,1,170684,6,Brazil,true,false,4,23,2,10,true,77
+Yayao,true,4,9,110283,30,China,true,false,4,16,3,62,true,34
+Monte Santo de Minas,true,2,1,75131,23,Brazil,true,false,0,25,3,59,true,99
+Jinfeng,false,3,9,13048,54,China,false,false,3,33,5,36,true,90
+Gebre Guracha,false,2,10,65114,55,Ethiopia,true,true,1,18,3,92,false,34
+Kukuluk,true,4,7,116409,4,Indonesia,true,false,3,21,3,17,false,68
+Fuming,true,3,1,22976,6,China,false,false,4,17,5,56,true,61
+Fantino,false,3,5,77494,19,Dominican Republic,true,true,2,35,5,38,false,17
+Jiuzhen,true,3,14,84032,4,China,false,false,4,30,1,78,true,18
+Lundazi,true,3,4,32023,87,Zambia,true,true,2,17,3,96,false,11
+Yangambi,false,4,4,169189,8,Democratic Republic of the Congo,false,true,2,21,5,88,true,41
+San Ramón de la Nueva Orán,true,3,6,21548,61,Argentina,false,false,1,14,5,98,true,27
+Lanyang,false,4,1,149894,4,China,false,false,0,30,2,19,true,19
+Dhuusamarreeb,false,3,11,25653,76,Somalia,true,true,0,20,3,29,false,66
+Qindu,true,4,5,126016,77,China,false,false,1,22,1,84,true,25
+Zahvizdya,false,4,3,14704,21,Ukraine,true,true,0,21,1,64,false,81
+Lolayan,false,4,5,18658,39,Indonesia,false,false,1,25,2,36,false,32
+Baoli,false,2,3,108553,33,China,true,false,4,17,5,56,false,36
+Mucifal,false,3,11,32750,35,Portugal,true,true,1,33,3,7,true,61
+Księżpol,true,3,10,175866,76,Poland,true,false,0,27,5,32,true,45
+Changling,false,3,4,11710,82,China,false,false,3,40,5,64,true,31
+Eauripik,false,4,0,56512,11,Micronesia,false,true,1,20,5,25,false,84
+Chocz,false,2,12,57032,3,Poland,true,false,1,23,3,21,true,81
+Changpu,true,1,1,166659,66,China,true,false,1,27,3,7,true,99
+Miaoquan,true,3,11,104789,86,China,false,true,1,28,5,44,false,10
+Las Vegas,true,2,12,94551,56,United States,false,false,1,24,5,57,true,12
+Wangwu,false,3,5,43529,59,China,false,false,0,29,2,1,true,23
+Kuala Terengganu,true,3,7,187400,74,Malaysia,true,true,3,37,4,84,false,3
+Wao,false,2,11,7215,65,Philippines,true,false,0,33,5,75,false,0
+Debrzno,false,2,4,77142,67,Poland,true,false,4,14,3,15,false,95
+Bani,true,4,3,48623,40,Philippines,false,true,4,17,1,16,false,4
+Jiashi,true,4,14,183504,32,China,true,false,1,26,5,60,true,99
+Oslob,true,2,3,69196,47,Philippines,true,false,4,30,3,8,true,83
+Francisco Sarabia,true,4,4,76829,53,Mexico,true,true,0,20,2,69,false,54
+Wolfville,true,2,2,185000,57,Canada,true,false,1,21,5,18,true,99
+Pamoyanan,true,3,6,87891,36,Indonesia,false,false,4,36,4,36,true,76
+Energeticheskiy,true,2,11,25024,3,Kazakhstan,false,true,2,33,5,62,true,54
+Kaynardzha,true,1,0,120205,47,Bulgaria,false,false,4,24,2,93,false,34
+Changshan,true,4,8,33719,43,China,false,true,1,36,2,45,false,27
+Wāling,false,1,0,70268,5,Nepal,true,true,2,18,4,18,true,50
+Gaohong,true,2,6,185917,77,China,false,false,3,25,5,24,false,13
+Mehmand Chak,false,3,9,193242,60,Pakistan,false,false,2,40,5,69,true,36
+Santa Cruz Balanyá,true,3,6,104635,25,Guatemala,false,false,4,28,2,66,false,11
+Qo‘qon,false,3,12,119784,33,Uzbekistan,false,false,2,39,5,60,true,48
+Arras,true,1,6,18705,85,France,true,false,1,19,2,69,true,90
+Stockholm,true,3,14,114914,8,Sweden,false,false,2,28,3,82,true,85
+Dugongan,true,1,8,103138,33,Philippines,true,false,4,38,4,13,false,16
+Čair,true,3,1,124827,58,Macedonia,true,true,1,37,3,62,false,44
+Mooirivier,true,4,5,117755,63,South Africa,true,true,4,25,1,9,true,43
+Izhmorskiy,false,4,13,50602,23,Russia,true,false,4,30,2,43,false,89
+Aş Şanamayn,true,1,9,161773,88,Syria,true,false,1,18,5,82,false,42
+Santa Bernardina,true,2,14,24736,78,Uruguay,false,false,4,21,5,97,false,90
+Kamālia,true,3,2,19207,83,Pakistan,true,false,1,28,4,50,true,90
+Mabayo,true,4,8,74346,23,Philippines,true,true,4,39,5,15,true,93
+Hita,true,1,1,147234,63,Japan,false,true,2,26,4,77,true,3
+Castedo,true,4,3,35660,25,Portugal,false,false,1,40,3,27,false,75
+Estrada,false,4,12,117345,7,Portugal,false,true,3,23,4,54,true,97
+An Châu,true,1,9,68252,61,Vietnam,false,false,1,24,1,97,false,37
+Pomahuaca,true,1,0,181003,53,Peru,false,false,1,25,4,19,true,2
+Gondomar,false,1,8,167947,89,Portugal,true,false,0,29,2,27,true,1
+Seke,true,2,1,52143,4,China,true,true,0,28,2,58,true,64
+Grudë-Fushë,false,1,5,117302,77,Albania,true,false,0,28,5,76,true,14
+Kangar,false,3,3,105157,16,Malaysia,false,true,1,15,3,14,false,62
+Banqiao,true,2,6,112546,72,China,false,false,4,27,3,1,false,80
+Pando,false,2,3,186168,55,Philippines,false,true,3,22,1,33,false,50
+Pampa Hermosa,false,1,6,77639,51,Peru,false,true,3,20,5,49,true,30
+Lyuban’,false,3,14,136839,34,Belarus,false,true,4,39,4,80,false,47
+La Concepcion,false,4,7,124528,13,Mexico,false,true,1,19,1,79,true,1
+Chimen,true,2,5,34750,60,China,false,false,4,38,5,32,false,39
+San Miguel,true,4,0,109911,52,Costa Rica,true,true,0,36,3,4,false,34
+Kabul,false,3,10,88722,58,Afghanistan,false,false,3,29,2,18,true,93
+Fuwah,true,4,10,94576,78,Egypt,true,true,2,19,2,33,true,50
+Polo,false,4,1,138148,85,Philippines,false,false,4,38,4,83,true,74
+Bełżyce,true,4,6,34477,1,Poland,false,false,4,40,3,91,true,57
+Dijon,true,4,13,72793,56,France,true,false,0,15,4,20,false,45
+Yanggang,true,3,6,179652,88,China,true,true,3,35,2,22,false,79
+Mueang Suang,true,1,4,35557,35,Thailand,true,true,2,39,3,59,false,100
+Linmansangan,false,2,15,116683,9,Philippines,true,true,3,24,5,85,true,60
+Pakis,true,2,2,95065,37,Indonesia,false,true,3,29,1,3,true,23
+Maputi,true,1,12,172104,6,Philippines,true,true,2,19,2,77,true,0
+Hobart,false,2,8,102881,67,Australia,false,false,4,22,4,97,true,89
+Chantilly,true,4,15,132283,62,France,false,true,1,24,4,42,true,6
+Evansville,true,4,13,145508,9,United States,true,true,4,16,2,22,false,16
+Binjai,false,2,7,23533,15,Indonesia,false,false,0,32,3,1,false,53
+Ust’ye,true,1,1,119068,40,Russia,true,true,4,21,3,48,true,48
+Houston,false,1,3,133638,34,United States,false,false,2,19,4,60,false,50
+Zhongfang,true,1,4,50720,25,China,false,false,2,22,4,45,true,75
+Maurisu,true,1,7,173416,26,Indonesia,true,true,0,31,2,79,false,97
+Chapayevka,false,1,15,146423,2,Ukraine,false,false,4,15,1,100,false,11
+Frei,false,4,11,183222,35,Norway,true,false,3,39,4,54,true,77
+Hendala,true,4,13,71848,65,Sri Lanka,false,true,4,16,1,14,true,44
+Villa Paula de Sarmiento,false,3,10,193380,17,Argentina,false,false,0,32,3,90,false,87
+Kasugai,true,2,2,121042,82,Japan,false,false,2,16,2,49,false,66
+Hovås,false,2,13,144530,2,Sweden,true,false,0,38,2,78,true,7
+Kazuno,false,2,8,159932,1,Japan,true,true,0,20,3,51,true,66
+Kobuleti,true,2,9,155191,72,Georgia,false,false,1,38,3,54,true,12
+Chimbas,false,3,8,22681,50,Argentina,false,true,2,14,5,72,true,34
+Boulder,true,2,5,148216,60,United States,false,false,0,38,5,98,false,11
+Rio das Ostras,false,3,5,39404,7,Brazil,true,true,4,22,4,35,true,37
+Armenia,false,4,15,87831,69,Colombia,false,false,1,15,3,70,true,86
+Guanhães,false,1,12,136239,84,Brazil,false,true,4,25,4,98,false,57
+Donghe,false,1,2,180841,32,China,true,true,3,40,4,10,true,7
+Guimbal,false,2,14,48952,75,Philippines,true,false,2,26,3,6,false,63
+Nanhuatang,false,2,8,121322,73,China,true,false,4,23,4,28,false,36
+Poříčany,true,4,13,42494,20,Czech Republic,false,false,3,17,4,64,true,91
+Maxixe,true,2,8,6899,33,Mozambique,true,false,2,26,3,9,true,99
+Yanghou,true,3,11,69344,54,China,false,true,3,17,3,89,false,4
+Chejiazhuang,false,3,2,158585,4,China,true,true,4,36,4,15,true,54
+Gangu Chengguanzhen,true,3,5,154976,50,China,true,false,2,21,3,39,true,100
+Gorno Orizari,true,2,12,35172,37,Macedonia,false,true,1,15,4,86,true,65
+Gradačac,false,4,5,104357,80,Bosnia and Herzegovina,false,true,0,15,1,87,false,95
+Dinājpur,false,1,9,100695,6,Bangladesh,false,true,4,14,3,96,false,87
+Houston,false,2,1,817,44,United States,false,false,2,39,4,57,true,0
+Obrera,true,4,4,95927,28,Mexico,false,true,1,34,4,40,false,61
+Embu,true,2,1,136748,13,Kenya,true,true,1,18,1,62,true,44
+Guang’an,false,3,14,146447,30,China,false,false,4,21,4,80,false,32
+Handa,true,1,4,21785,52,Japan,false,true,3,28,5,66,true,85
+Gunungtua,false,2,8,70321,77,Indonesia,false,true,4,32,5,71,true,42
+Janja,true,1,5,67405,47,Bosnia and Herzegovina,false,false,4,18,3,58,true,19
+Antang,true,2,12,127478,63,China,true,true,3,28,5,45,true,92
+Chegutu,true,3,5,158031,42,Zimbabwe,true,false,1,25,1,37,true,88
+Paris 19,true,1,4,41522,89,France,false,true,1,38,2,41,false,48
+Kista,true,4,9,175411,5,Sweden,true,true,2,28,3,92,false,40
+Chiantla,true,1,9,12599,63,Guatemala,true,false,0,18,5,5,false,68
+Maythalūn,true,2,15,81001,89,Palestinian Territory,true,false,3,28,2,33,true,82
+Rimpeso,false,4,0,122563,78,Philippines,true,true,2,34,2,76,true,18
+Nybro,true,1,8,180834,39,Sweden,true,true,2,28,4,50,true,98
+‘Awaj,true,3,4,92950,46,Syria,false,false,4,37,1,97,true,17
+Fengjiang,true,3,15,176667,55,China,true,true,1,18,5,78,true,71
+Trinidad,false,1,10,57207,6,Uruguay,false,true,1,32,1,59,false,7
+Chiquimulilla,true,4,9,57147,35,Guatemala,true,false,1,22,2,1,true,81
+Tovarnik,false,3,2,192159,18,Croatia,false,true,2,23,5,52,false,81
+Apeldoorn,true,3,13,56908,42,Netherlands,false,true,4,26,4,39,false,49
+Xianglan,true,4,4,100520,21,China,false,true,3,17,5,31,false,51
+Chernigovka,true,3,4,27784,89,Russia,true,false,2,28,3,13,false,96
+Phetchaburi,true,3,14,118183,52,Thailand,false,false,3,34,5,27,false,30
+Vyritsa,true,1,6,150971,82,Russia,true,false,1,30,3,61,true,40
+Castrovirreyna,true,2,8,121581,0,Peru,true,false,3,25,5,3,true,5
+Wewoloe,true,3,14,56957,10,Indonesia,false,true,3,25,4,86,false,33
+Studénka,false,3,1,127777,3,Czech Republic,false,true,3,34,2,22,true,68
+Getulio,true,4,4,110309,69,Philippines,true,false,1,31,3,85,true,56
+Hengdian,false,4,4,126073,32,China,true,false,4,26,3,63,true,62
+Zhoutian,true,2,14,122697,49,China,true,true,0,16,4,17,true,70
+Burrel,false,1,11,172314,64,Albania,false,false,3,33,2,47,true,35
+Moulins,true,1,8,66220,67,France,false,false,4,27,5,59,false,22
+Leshukonskoye,true,3,4,112044,25,Russia,true,false,4,21,4,50,true,34
+Dalinhe,true,1,7,124494,39,China,false,false,0,19,4,54,true,91
+Kendung Timur,false,1,15,70882,44,Indonesia,false,true,2,25,5,59,true,67
+Tennō,true,4,2,109394,31,Japan,true,true,4,40,2,60,true,35
+Wuyang,false,2,10,163475,3,China,false,true,1,23,3,46,false,15
+Xiongchi,true,2,5,176498,32,China,false,false,1,33,4,71,true,6
+Doctor Juan León Mallorquín,true,4,6,172611,56,Paraguay,false,false,3,25,3,83,false,39
+Mizhirah,true,1,8,17528,66,Saudi Arabia,true,false,4,32,4,9,false,86
+Ranot,false,3,3,28032,72,Thailand,false,false,3,36,4,80,true,36
+Polloc,true,2,13,79672,40,Philippines,true,true,4,30,1,18,true,2
+Falefa,true,4,6,30821,35,Samoa,false,true,3,36,1,26,true,71
+Bilqās,true,4,4,175134,23,Egypt,false,false,4,21,1,100,false,56
+Serravalle,false,2,0,190989,79,San Marino,false,true,4,26,1,35,true,52
+Masindi,false,2,1,152226,64,Uganda,true,false,3,21,5,6,false,50
+Palmira,true,3,5,72085,41,Cuba,true,false,2,23,2,63,true,41
+Trąbki Wielkie,false,3,8,15612,68,Poland,false,true,0,37,3,86,true,2
+Huaiya,false,1,15,144457,89,China,false,false,2,27,4,2,false,62
+Mont-de-Marsan,true,1,15,183549,77,France,false,false,2,19,5,13,true,22
+Laoqiao,true,2,2,81132,63,China,false,true,3,37,2,16,false,36
+Chocianów,false,4,13,4870,6,Poland,false,true,2,28,2,78,true,87
+Mpumalanga,true,4,3,115219,46,South Africa,false,true,1,23,2,53,true,53
+Bytkiv,false,4,0,46045,55,Ukraine,true,true,4,20,2,11,false,23
+Guxi,true,1,3,169347,27,China,true,false,0,16,2,69,true,40
+Nanyue,false,1,7,293,85,China,false,true,2,15,5,28,false,45
+Nyūzen,true,4,11,111878,62,Japan,true,false,1,34,1,100,false,6
+Boldumsaz,true,4,7,134124,69,Turkmenistan,false,false,0,16,4,60,false,29
+Jiuxian,true,2,10,53072,60,China,true,false,1,27,3,83,true,35
+Tianchang,true,4,13,160101,60,China,false,true,3,37,3,84,false,37
+Awilega,false,1,0,111779,87,Indonesia,false,false,2,17,2,71,false,79
+Binagadi,true,3,3,135324,15,Azerbaijan,false,true,1,40,5,22,false,87
+Taipa,false,3,11,23404,44,New Zealand,true,true,4,28,4,47,false,51
+Gotputuk,true,4,3,130279,16,Indonesia,false,false,3,34,3,72,true,42
+Rybczewice,true,2,14,175014,69,Poland,true,true,4,29,1,90,true,93
+Ostroróg,true,1,0,29559,71,Poland,false,true,3,15,1,87,true,99
+Dmitriyevka,true,3,13,194122,5,Russia,false,false,1,23,4,31,true,90
+Largo,true,2,12,44629,17,United States,false,true,1,22,4,1,true,11
+Guojia,true,2,14,72867,29,China,false,true,0,15,2,79,false,34
+Krajan Gajahmati,false,3,3,37138,7,Indonesia,false,true,1,27,1,19,false,55
+Klapagading,false,2,7,91738,75,Indonesia,false,true,3,15,5,53,true,49
+Berģi,false,4,10,104000,26,Latvia,true,true,0,17,3,31,true,66
+Mogwase,true,1,2,20471,18,South Africa,true,true,2,40,1,68,true,95
+Miguel Pereira,false,4,0,144729,88,Brazil,true,false,4,20,5,15,true,22
+Červené Pečky,false,1,5,193693,15,Czech Republic,true,true,0,17,2,61,true,16
+Banyue,true,4,3,176416,48,China,false,false,1,27,2,68,false,81
+Novokuz’minki,true,4,15,1185,70,Russia,true,true,0,27,3,30,false,45
+Sidon,true,1,0,50846,90,Lebanon,false,false,4,29,2,74,false,84
+Heqian,true,2,11,66661,75,China,false,false,2,39,4,85,true,55
+Ban Talat Yai,true,1,8,68420,19,Thailand,false,true,4,35,3,16,false,88
+Soroca,true,2,14,132371,18,Moldova,true,true,3,34,3,1,false,20
+Mekele,false,3,8,97248,73,Ethiopia,true,false,2,34,5,3,true,74
+Dębowa Łąka,true,3,0,84581,15,Poland,true,false,0,15,2,17,true,42
+Carmo do Paranaíba,true,4,7,114856,17,Brazil,false,false,4,16,4,2,false,70
+Buenavista,true,3,14,84806,80,Colombia,false,true,0,32,2,75,false,5
+Smederevska Palanka,false,2,9,151103,32,Serbia,true,false,4,37,1,26,false,32
+East End,true,4,13,138944,54,United Kingdom,false,false,0,35,1,0,false,63
+Antioquia,false,1,0,47867,35,Colombia,true,false,0,18,4,16,true,46
+Eqlīd,true,1,3,139689,7,Iran,true,false,0,32,2,65,true,11
+Aş Şanamayn,true,3,2,153671,1,Syria,true,false,1,22,1,89,true,48
+Llipa,false,2,4,73022,1,Peru,true,true,2,37,3,71,false,43
+Kongsvinger,false,4,2,115954,60,Norway,true,true,2,40,5,67,false,53
+Vozuća,true,2,2,186251,18,Bosnia and Herzegovina,true,true,2,34,3,48,true,95
+Doom,true,2,2,146375,75,Indonesia,true,false,1,26,1,57,false,52
+Ballinteer,false,1,12,75735,39,Ireland,true,false,1,17,4,27,true,31
+Chlói,false,4,13,57453,44,Greece,true,true,3,38,5,53,true,12
+Dobczyce,false,3,14,42701,70,Poland,false,true,3,33,2,59,true,37
+Vårby,false,2,1,128871,44,Sweden,false,false,4,27,2,69,true,55
+Bonanza,true,3,3,75420,41,Nicaragua,true,false,1,40,2,53,false,8
+San José El Ídolo,false,1,14,37538,20,Guatemala,true,true,4,21,1,88,false,89
+Bau,false,2,14,160660,25,Indonesia,true,true,3,33,1,2,false,44
+Monte Azul Paulista,false,2,10,80607,4,Brazil,false,false,4,29,5,91,false,42
+Tabaga,false,3,8,139775,17,Russia,true,false,2,25,3,15,false,75
+Iberia,true,1,1,6426,1,Peru,true,false,2,31,1,25,false,83
+Ciputat,true,3,2,85722,48,Indonesia,false,true,1,37,1,34,false,2
+Gaomi,false,2,13,158919,40,China,true,true,0,20,2,11,false,87
+Nantes,false,3,14,4569,50,France,false,true,3,22,4,74,true,33
+Guacarí,false,3,3,40133,31,Colombia,false,true,1,25,5,82,true,27
+Riah,true,2,13,83332,65,Morocco,false,true,0,31,1,36,true,10
+Binhe,false,2,2,8766,80,China,false,false,4,21,4,36,true,2
+Shibi,true,4,8,48079,88,China,true,false,3,28,3,79,false,71
+Ebetsu,false,2,6,62084,80,Japan,false,false,2,17,1,82,true,79
+Mar’ina Roshcha,true,3,1,34625,26,Russia,false,false,3,16,4,53,false,56
+Tlumačov,true,3,3,45672,88,Czech Republic,false,true,4,26,1,92,false,33
+Sepolong Timur,true,2,3,96454,52,Indonesia,true,false,3,14,4,32,false,70
+Yelwa,false,3,2,8117,85,Nigeria,false,true,0,35,3,74,false,83
+San Diego,false,4,14,96014,8,United States,false,false,0,38,3,18,false,83
+Jinglou,false,2,10,68493,36,China,false,false,4,21,2,32,true,22
+Rawasan,false,1,14,138270,48,Indonesia,false,true,1,38,3,64,true,41
+Wasquehal,false,4,9,83784,3,France,true,true,1,19,4,26,false,47
+Sulęcin,false,1,3,52094,79,Poland,true,true,3,40,3,24,true,57
+Petaẖ Tiqwa,false,4,13,10669,70,Israel,false,true,1,24,4,47,true,12
+Batiovo,false,2,4,181856,67,Ukraine,false,true,2,23,1,76,true,72
+Nonggunong,true,4,10,15765,35,Indonesia,false,false,2,40,1,39,false,42
+Trinidad,true,2,10,176822,64,Uruguay,false,false,1,29,3,42,false,79
+Cabiao,false,4,7,191662,4,Philippines,false,false,0,27,4,61,true,46
+Karpushikha,false,4,1,114519,82,Russia,true,false,3,23,3,9,true,4
+Itapeva,true,2,5,97352,25,Brazil,true,true,3,38,1,21,false,62
+Puger,true,4,2,22558,57,Indonesia,true,false,1,22,3,33,false,43
+Vaiamonte,false,3,1,128286,40,Portugal,false,true,2,40,4,30,false,5
+Leticia,true,4,5,99665,26,Peru,true,false,1,33,3,88,true,41
+Otaru,true,1,6,78056,76,Japan,false,false,4,15,5,63,true,78
+Louiseville,false,3,8,69233,31,Canada,true,true,0,38,1,31,true,91
+Obigarm,true,3,8,117850,40,Tajikistan,false,true,2,15,1,70,true,46
+Tol’yatti,true,2,8,11435,71,Russia,true,false,3,38,4,0,true,71
+Eastern Suburbs Mc,true,3,4,76592,79,Australia,true,true,1,40,4,68,false,82
+Bruxelles,false,4,5,129261,14,Belgium,true,false,0,37,2,64,false,82
+Farafenni,false,2,9,90513,28,Gambia,false,false,3,40,4,2,false,41
+Wucheng,false,3,7,25872,38,China,false,true,2,17,2,42,false,43
+Pushkin,false,1,8,182046,60,Russia,false,false,4,30,5,70,false,80
+Ramos,true,1,2,39688,27,Philippines,true,false,4,34,1,32,true,13
+Amānzī,true,2,2,157771,28,Afghanistan,true,true,4,15,3,69,true,9
+Obrera,false,2,13,177025,33,Mexico,true,true,2,15,5,73,true,57
+Bobigny,true,2,7,79764,84,France,true,false,4,27,1,82,false,97
+Necochea,false,3,3,66598,49,Argentina,false,false,3,30,1,85,true,71
+Rauco,false,3,6,109952,3,Chile,true,false,2,15,4,75,false,69
+Tuchów,false,1,12,141889,10,Poland,true,true,4,21,5,80,false,9
+Orguz,true,4,12,156246,33,Bosnia and Herzegovina,true,true,3,38,4,13,true,40
+Skien,false,3,8,132667,15,Norway,true,true,3,17,5,88,false,87
+Qo‘qon,true,4,1,125581,58,Uzbekistan,false,true,2,31,4,100,true,54
+Metchosin,true,2,14,111864,46,Canada,true,true,0,34,1,55,false,97
+Karma,true,2,11,1067,76,Belarus,true,false,1,39,5,33,false,48
+Ciawi,false,2,12,85386,3,Indonesia,false,false,1,20,5,78,false,30
+Refojos de Riba de Ave,true,4,8,171176,16,Portugal,true,true,4,15,2,78,true,70
+Baishan,false,1,2,89020,65,China,false,true,0,21,1,48,true,42
+Were Īlu,true,2,7,6817,35,Ethiopia,false,true,1,38,4,6,false,99
+Kuching,false,3,13,53188,71,Malaysia,false,true,3,35,3,43,false,42
+Níkaia,false,4,11,127221,7,Greece,true,false,4,16,4,28,true,18
+Gamovo,true,3,8,155212,30,Russia,true,true,2,38,3,33,true,35
+Langxi,true,2,8,94497,1,China,true,false,1,33,5,67,true,91
+Örebro,false,4,14,20158,14,Sweden,true,true,3,24,1,17,true,84
+Sucha,true,4,7,8215,56,Poland,false,false,3,36,2,23,false,80
+São Martinho de Árvore,true,3,14,8458,38,Portugal,true,true,1,38,3,10,true,94
+Anta,false,3,4,161874,73,Peru,true,false,0,39,1,80,false,80
+Ínfias,false,3,11,58859,53,Portugal,false,false,3,17,2,26,true,14
+La Molina,true,4,1,102886,10,Peru,true,false,1,20,4,34,true,8
+Parakou,false,3,15,189687,74,Benin,true,false,4,23,5,95,false,24
+Danyang,false,2,14,151006,9,China,false,true,2,28,5,87,false,43
+La Escondida,false,1,14,150233,85,Mexico,false,true,0,27,2,87,true,34
+Makoko,false,2,12,81910,36,Nigeria,false,true,2,27,1,91,false,62
+Huangtan,false,2,0,34963,85,China,false,false,3,18,2,88,false,44
+Kroczyce,false,3,3,36916,22,Poland,false,true,1,30,3,69,true,9
+Lijie,true,1,6,114563,67,China,false,false,4,22,2,45,false,77
+San Cristóbal,false,2,3,186559,16,Dominican Republic,true,true,3,19,3,74,false,91
+Guangfu,true,1,15,70341,42,China,false,true,0,25,1,86,true,30
+Niitsu-honchō,false,2,8,53578,63,Japan,true,true,1,29,3,48,true,15
+Pilawa,false,1,14,176477,8,Poland,false,true,2,21,3,9,false,51
+Broto,true,1,2,42321,62,Indonesia,true,true,0,26,4,22,false,61
+Telde,true,2,14,18296,73,Spain,true,true,2,33,3,18,false,62
+Neuilly-sur-Marne,true,2,0,168026,67,France,true,false,0,38,1,93,true,91
+María la Baja,false,4,11,189882,77,Colombia,false,false,2,19,2,10,false,30
+Glagahan,false,2,8,54443,57,Indonesia,false,true,1,36,3,29,false,67
+Xinqiaohe,true,3,10,54219,83,China,true,true,1,30,2,29,true,35
+Yiwa,true,3,4,137357,43,China,false,false,2,38,4,40,false,99
+Dongxin,true,4,6,54426,71,China,false,false,4,28,4,92,false,48
+Ngromo,false,4,3,108030,17,Indonesia,true,false,2,26,3,40,false,68
+Sumberan,true,3,9,112617,16,Indonesia,true,false,0,36,3,94,true,33
+Kebonjaya,true,1,7,62390,43,Indonesia,true,true,4,24,3,64,false,71
+Benešov nad Ploučnicí,false,1,4,173123,57,Czech Republic,true,false,2,34,2,37,false,100
+Xiangshui,false,1,7,124249,27,China,false,false,2,26,4,49,false,85
+Wanmingang,true,1,7,146722,89,China,true,false,1,23,3,91,true,65
+Yirshi,true,2,15,38226,23,China,false,false,0,15,4,77,true,41
+Yangba,false,1,4,74496,67,China,true,true,2,36,5,55,true,7
+Bressuire,false,1,12,188921,50,France,false,true,0,30,2,19,true,71
+Bulag,false,3,1,35291,64,Mongolia,false,true,4,26,4,1,true,42
+Enskede,true,3,0,573,58,Sweden,true,true,4,24,5,18,false,36
+Huanshan,false,3,10,167091,15,China,false,true,2,33,5,43,false,7
+San Vicente,true,2,11,177660,75,Philippines,false,false,0,21,3,83,false,57
+Ares Tengah,true,3,11,99357,89,Indonesia,true,false,1,30,5,50,false,66
+Föglö,false,1,8,53027,70,Aland Islands,false,true,1,17,1,95,true,80
+Cuijiaqiao,true,1,4,191510,32,China,true,false,3,26,2,27,false,28
+Weekombaka,true,4,15,66237,3,Indonesia,true,true,2,22,4,10,false,74
+Helsingborg,true,4,9,51397,87,Sweden,true,true,1,21,1,36,true,80
+Stockholm,false,4,2,3417,67,Sweden,false,true,4,34,4,21,true,55
+Kushovë,true,3,15,25012,17,Albania,true,false,3,32,4,65,false,88
+Narsaq,false,1,2,84913,2,Greenland,false,true,1,31,2,78,false,48
+Jūrīsh,true,2,7,30953,46,Palestinian Territory,false,true,1,18,4,52,true,17
+Al Bilād,true,1,1,54553,85,Yemen,false,false,4,27,2,25,false,87
+Fonte de Angeão,true,2,15,7091,3,Portugal,true,true,0,33,5,50,true,17
+Chikeng,false,3,5,109726,70,China,true,true,0,34,5,53,false,53
+Uppsala,false,3,5,142035,30,Sweden,false,true,2,19,3,20,true,17
+Quxia,false,3,6,156082,67,China,false,true,2,26,5,7,true,21
+Yongxing,true,3,11,119775,20,China,false,false,0,37,1,21,true,11
+Walenrang,true,1,11,1163,22,Indonesia,false,true,4,20,5,85,false,8
+Valenciennes,false,1,8,39888,49,France,true,true,0,30,4,86,false,51
+Los Angeles,false,3,4,125617,44,United States,true,true,4,14,4,69,true,99
+Panan,true,1,12,146672,46,Philippines,false,false,2,17,4,79,true,94
+Fuvahmulah,true,4,0,19231,70,Maldives,true,true,2,31,2,34,true,65
+Fryčovice,false,3,11,76335,8,Czech Republic,false,true,4,40,2,10,false,82
+Barra do Bugres,true,2,6,53555,10,Brazil,false,true,2,20,4,87,false,26
+Quimper,false,2,3,123862,43,France,true,true,1,25,2,100,false,37
+Bieniewice,false,4,3,187189,6,Poland,false,false,1,20,5,7,false,18
+Ghanzi,false,4,7,7140,17,Botswana,true,false,3,24,3,57,true,34
+Charikar,true,4,7,107504,41,Afghanistan,false,false,0,16,1,33,true,70
+Nicasio,false,1,9,122473,58,Peru,true,false,0,20,5,26,false,25
+Kadubetara,false,3,6,22966,64,Indonesia,false,false,4,39,2,78,true,37
+Jampang Tengah,false,3,11,107593,6,Indonesia,false,true,1,33,2,59,false,13
+Sonzacate,true,1,14,137697,40,El Salvador,true,true,0,27,5,35,true,11
+As Saffānīyah,true,4,15,44036,9,Saudi Arabia,false,false,1,40,1,17,false,15
+Penang,true,4,10,167817,82,Indonesia,false,true,2,33,5,9,false,1
+Milovice,false,2,6,180580,47,Czech Republic,false,false,0,15,1,42,false,27
+Huangshi,true,3,8,92115,20,China,true,true,1,37,5,42,false,55
+Ivanovka,true,3,4,127989,73,Russia,false,true,4,18,4,26,true,46
+Jeponkrajan,false,3,13,104994,46,Indonesia,false,true,4,36,3,10,true,33
+Palaihari,true,1,14,190593,61,Indonesia,true,false,4,16,1,93,false,88
+Ricardo Palma,false,3,2,19460,84,Peru,false,true,3,14,1,58,true,74
+Al Buţayḩah,true,1,2,12563,46,Syria,false,false,2,20,4,63,false,50
+Cirangga Kidul,true,4,12,160303,78,Indonesia,true,false,0,29,1,27,false,49
+Hyesan-si,false,2,14,144929,51,North Korea,false,true,2,22,2,65,true,30
+Zhenziliang,true,3,15,64222,55,China,false,true,1,39,3,80,false,12
+Damascus,false,3,6,47225,14,Syria,true,true,3,24,5,77,false,73
+Sumberrejo,false,1,7,160455,43,Indonesia,true,true,4,16,2,63,true,86
+Novo Cruzeiro,true,3,10,108779,60,Brazil,true,false,3,17,5,61,false,58
+Hradec Králové,false,4,10,11534,3,Czech Republic,true,true,1,18,2,46,true,12
+Sinmak,false,1,0,125020,38,North Korea,false,true,4,29,1,5,false,0
+Skalat,false,3,4,174182,28,Ukraine,false,false,2,38,5,11,false,67
+San Javier,true,3,12,63943,49,Chile,true,true,4,32,5,95,true,89
+Sanguansi,true,3,5,34129,21,China,false,true,3,40,5,20,true,39
+Marzhing,false,1,9,80133,70,China,false,true,3,39,5,47,false,2
+Xiagong,false,3,10,118473,75,China,false,true,2,25,1,78,true,44
+Stockholm,true,2,1,72419,74,Sweden,true,false,4,33,2,35,false,46
+Kampene,true,4,14,29102,39,Democratic Republic of the Congo,true,false,2,21,4,39,true,24
+Kotaagung,false,2,15,36013,40,Indonesia,false,false,1,25,4,54,true,63
+Tambawel,false,2,2,142071,36,Nigeria,true,true,2,28,5,10,true,52
+Volgodonsk,false,1,1,137705,63,Russia,true,false,1,18,5,24,true,2
+Lakinsk,false,3,13,165223,46,Russia,false,false,4,22,3,78,true,87
+Valparaíso,false,3,2,159063,28,Brazil,true,true,4,19,2,5,false,25
+Steinsel,true,2,14,142079,51,Luxembourg,true,true,3,38,3,57,true,2
+Pakusari,true,1,8,10231,76,Indonesia,false,true,0,37,2,28,true,50
+Pappádos,true,4,12,26002,52,Greece,false,true,4,23,4,34,true,24
+Narganá,true,3,3,147955,9,Panama,false,true,3,21,4,95,false,46
+Santiago Vázquez,true,3,15,67055,18,Uruguay,true,false,4,37,3,94,true,1
+Pechersk,false,2,13,163836,84,Russia,false,true,4,38,4,88,true,7
+Arjona,false,2,4,159330,69,Colombia,true,true,3,32,4,15,false,79
+Yuxi,true,2,5,144569,44,China,true,true,0,21,1,47,true,68
+Omaha,true,3,10,95251,15,United States,true,true,1,31,4,62,false,79
+Ouésso,true,3,11,23329,53,Republic of the Congo,false,true,0,20,1,86,true,60
+Dulangan,true,1,6,66273,17,Philippines,true,false,4,36,3,66,true,8
+Xambabazar,true,2,4,61053,84,China,false,false,2,35,3,54,true,72
+Stepojevac,false,4,6,3011,67,Serbia,false,true,0,30,3,74,false,57
+Armenokhórion,true,4,15,168370,2,Greece,false,true,0,39,4,97,false,43
+Itamaraju,false,1,14,182157,59,Brazil,true,true,3,32,3,51,true,61
+Příšovice,false,3,0,6212,86,Czech Republic,true,true,2,19,1,44,false,67
+Florencia,false,3,6,84535,58,Colombia,true,false,2,33,3,13,false,56
+Dębe Wielkie,true,1,2,144241,17,Poland,false,false,1,26,3,39,true,39
+Luopioinen,false,1,6,3150,76,Finland,false,false,2,22,5,5,true,50
+Tysmenychany,false,4,0,189392,16,Ukraine,false,false,1,28,4,9,false,7
+Všenory,false,1,13,68524,48,Czech Republic,true,false,2,37,1,59,false,87
+Talshand,false,2,7,44329,62,Mongolia,false,true,3,14,3,40,false,35
+McKinley,true,3,3,136802,61,Philippines,true,true,4,28,4,67,false,13
+Stockholm,false,2,9,189837,73,Sweden,true,false,0,25,4,63,true,89
+San Carlos,true,2,15,21438,44,Colombia,true,false,2,34,5,47,false,8
+Priekule,true,3,9,56040,73,Latvia,false,false,3,34,2,22,false,98
+Letlhakeng,false,1,14,85380,80,Botswana,true,false,0,21,2,0,false,50
+Kristiansund N,true,2,10,48541,47,Norway,true,true,2,22,3,3,true,24
+Sukaharja,true,1,8,95086,72,Indonesia,false,true,1,26,3,0,false,50
+La Paloma,false,1,12,49533,64,Uruguay,false,false,3,22,1,8,true,76
+Hualmay,true,1,2,11980,81,Peru,true,true,4,33,1,12,false,79
+Cipesing,true,1,0,25592,36,Indonesia,true,true,2,19,3,28,true,62
+Wierzchowo,false,1,13,169787,81,Poland,false,false,2,19,3,59,false,98
+Shirokovskiy,true,2,1,17285,10,Russia,false,false,1,35,3,28,true,29
+Sremska Mitrovica,false,2,9,84121,81,Serbia,true,false,4,21,3,49,true,6
+Além,false,1,8,185063,56,Portugal,false,false,2,18,2,77,false,43
+Bolinao,false,1,12,971,70,Philippines,true,true,4,16,4,5,true,67
+Geyuan,true,2,6,155614,30,China,true,true,4,16,5,9,true,73
+Houston,false,1,14,76093,62,United States,false,false,3,38,3,28,false,92
+Al ‘Anān,true,4,8,154646,55,Yemen,true,false,0,20,5,62,false,10
+Dinahican,true,3,3,184272,87,Philippines,true,true,4,16,2,53,false,56
+Jibu Hulangtu,false,4,13,164729,44,China,false,true,4,31,2,96,false,63
+Bollnäs,true,1,2,158945,76,Sweden,true,false,2,40,4,95,false,29
+Babice,true,4,0,62895,32,Poland,true,true,3,30,1,39,true,47
+Sukhinichi,false,2,12,109805,89,Russia,true,true,1,37,5,6,true,73
+Domoni,true,4,12,52078,9,Comoros,true,false,2,40,5,53,false,46
+Frederiksberg,false,4,10,42189,39,Denmark,true,false,3,26,2,42,true,7
+Dobropillya,false,4,6,100640,88,Ukraine,true,true,1,38,4,80,false,25
+Stari Kuty,true,1,7,16564,22,Ukraine,false,true,1,25,4,29,false,24
+Lengshuijing,false,2,0,11405,61,China,true,false,1,36,3,34,true,99
+Kedungsumurkrajan,false,1,9,49726,66,Indonesia,false,false,0,22,2,93,true,57
+Nizhniy Lomov,false,4,7,144703,84,Russia,true,true,2,38,1,28,false,77
+La Unión,true,3,12,63216,24,Colombia,true,true,0,28,1,47,false,50
+Qingdao,true,2,1,142970,14,China,true,true,4,14,1,17,true,31
+Masaguisi,false,4,8,114874,10,Philippines,false,false,0,21,3,19,false,71
+Yousheng,false,2,4,183372,56,China,false,false,1,20,5,36,true,56
+Orlando,true,3,4,133784,77,United States,false,true,1,25,1,66,false,26
+Karabanovo,true,3,0,32450,40,Russia,true,false,3,27,1,56,false,100
+Pereira,true,4,8,177922,30,Portugal,false,true,0,20,1,97,true,80
+Steinfort,false,2,0,73301,52,Luxembourg,true,true,1,27,2,71,true,42
+Galutu,true,2,5,193615,41,China,false,false,0,33,1,90,false,41
+Lolayan,true,2,1,58224,0,Indonesia,false,true,4,24,1,14,true,97
+Nakhon Chai Si,true,4,1,170343,8,Thailand,true,true,3,16,1,10,true,18
+Volodarsk,true,3,4,161413,7,Russia,false,false,1,34,4,86,false,43
+Gayny,true,1,10,35115,86,Russia,true,false,1,32,2,57,true,84
+Dniprodzerzhyns’k,true,1,9,30182,37,Ukraine,false,true,2,23,3,6,true,68
+Bulu,true,2,12,64291,83,Indonesia,false,true,2,31,4,82,false,81
+Goragorskiy,false,2,10,90650,75,Russia,false,true,2,16,1,27,true,47
+Rozkishne,true,3,0,67898,73,Ukraine,true,false,1,18,3,90,false,65
+Kamina,false,3,9,2130,29,Democratic Republic of the Congo,true,false,3,39,5,59,false,13
+Denyshi,true,4,12,175092,11,Ukraine,false,false,2,37,1,16,true,80
+Hobart,false,2,13,98386,30,Australia,true,true,0,30,4,93,false,1
+Ardee,false,1,6,125301,71,Ireland,true,true,0,30,2,1,false,58
+Ambunti,false,1,4,142869,26,Papua New Guinea,true,false,2,21,2,2,true,22
+Erhe,false,2,8,148089,25,China,true,false,4,35,2,66,true,67
+Yangdang,false,3,11,49422,16,China,true,false,0,33,5,19,false,75
+Qarqania,false,2,13,60354,62,Syria,false,true,1,37,4,81,false,81
+Haitou,true,3,13,81335,75,China,false,true,4,35,2,47,true,46
+Oemofa,false,1,8,8,65,Indonesia,true,false,3,38,3,30,false,20
+Yulao,false,4,14,67411,13,China,true,false,0,20,4,41,false,85
+Nakhodka,true,1,0,192833,18,Russia,false,false,0,21,2,11,true,49
+Huifeng,false,4,12,148313,3,China,false,false,4,19,1,35,false,45
+Dobrá,true,4,2,182159,38,Czech Republic,false,false,0,38,4,86,true,43
+Donnacona,false,4,0,92239,58,Canada,false,false,3,18,3,64,false,50
+Khān Neshīn,false,3,7,69391,74,Afghanistan,false,true,3,31,1,93,false,62
+Wangcun,true,2,11,23297,17,China,true,false,4,39,5,97,true,48
+"Palmas De Gran Canaria, Las",false,1,6,156855,33,Spain,false,true,0,30,5,17,true,9
+Safed,false,4,1,80277,75,Israel,false,false,2,39,3,93,false,73
+Yasugichō,false,4,7,185928,4,Japan,true,false,2,34,2,59,true,21
+Baikui,false,4,7,77523,16,China,true,false,1,25,5,43,true,97
+Muladbucad,true,4,13,187662,6,Philippines,false,true,4,24,2,9,false,94
+Hudai,false,3,0,61709,43,China,true,true,1,30,3,94,true,18
+Hatsukaichi,false,1,7,17418,24,Japan,false,false,4,39,5,5,false,71
+Pindi Bhattiān,false,4,10,193493,36,Pakistan,true,true,0,27,2,57,true,65
+Mazongling,false,3,3,186763,1,China,false,false,1,40,3,99,true,50
+Nakuru,false,4,1,177869,53,Kenya,true,true,1,35,1,43,true,77
+Benhong,true,4,6,109634,52,China,true,false,1,30,3,91,true,25
+Orong,true,1,15,102532,70,Indonesia,false,false,4,28,4,94,false,51
+Rimba Sekampung,true,2,13,136494,48,Indonesia,false,false,1,15,5,85,true,69
+Zakupne,true,1,4,61883,51,Ukraine,true,false,1,31,4,58,true,73
+Tabuc Pontevedra,false,1,0,47299,33,Philippines,false,false,3,34,1,9,false,75
+Kálymnos,false,2,8,83098,11,Greece,true,false,4,29,3,31,false,47
+Takaka,false,2,10,76866,24,New Zealand,true,false,2,32,3,15,true,99
+Tobilolong,true,1,7,122533,38,Indonesia,true,false,2,35,4,77,true,96
+Chon Buri,false,1,1,172921,11,Thailand,true,false,3,27,3,46,false,14
+Nassarawa,true,1,13,90083,38,Nigeria,true,true,0,40,2,40,false,83
+Struga,false,3,10,141197,57,Macedonia,true,false,4,38,1,67,false,52
+Shaft,true,4,0,69348,75,Iran,false,true,0,36,2,44,true,68
+Xiayang,false,4,0,95744,90,China,true,true,3,18,1,29,true,52
+Masachapa,false,1,14,172307,63,Nicaragua,false,true,2,29,3,45,true,32
+Sịa,false,3,13,108952,61,Vietnam,false,false,1,36,2,58,false,71
+San Diego,false,1,15,3661,66,United States,true,false,3,22,1,30,true,5
+Rybinsk,true,3,14,148962,64,Russia,true,false,0,19,3,12,false,53
+Johnson City,false,4,9,134736,9,United States,false,false,1,39,5,74,true,11
+Sundbyberg,false,4,4,159489,7,Sweden,true,false,0,28,1,14,false,13
+Tindog,true,2,3,27625,60,Philippines,true,true,0,23,1,71,true,53
+Mokronog,true,2,5,7352,23,Slovenia,false,true,0,26,3,72,true,17
+Xiaoyangqi,false,1,3,145740,85,China,true,true,2,28,1,83,true,8
+Lueng Putu,false,4,6,116478,28,Indonesia,false,true,3,36,5,29,true,67
+Jasionów,true,2,7,171785,39,Poland,true,false,0,36,2,83,false,66
+Chengdong,true,4,2,44167,61,China,true,true,1,35,4,48,true,57
+Mantampay,false,1,0,6229,26,Philippines,false,true,1,33,5,43,false,88
+Diamantina,true,2,9,50704,15,Philippines,true,true,3,15,3,86,true,9
+Eshowe,false,2,13,98563,12,South Africa,false,false,1,29,5,82,false,41
+Xiachu,false,2,11,75655,70,China,false,true,4,19,2,34,true,80
+Chemal,true,4,11,139541,67,Russia,true,false,3,27,3,12,true,97
+Hamburg,true,4,15,6082,37,Germany,true,false,1,20,5,16,false,61
+Shkodër,false,3,0,171482,42,Albania,true,true,4,17,5,89,false,11
+Carcar,false,4,12,123534,44,Philippines,false,false,2,23,1,21,true,17
+Port Saint Lucie,true,1,4,8116,46,United States,false,true,1,29,2,40,true,51
+Wuhe Chengguanzhen,false,2,9,109444,14,China,true,false,0,19,3,96,false,38
+Nam Som,true,1,4,11490,42,Thailand,false,true,0,38,5,18,false,47
